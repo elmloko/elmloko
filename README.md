@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marco Antonio Espinoza Rojas</h1>
-<h3 align="center">Welcome to my GitHub profile! I am a passionate developer based in Bolivia, with a focus on creating innovative and efficient technology solutions. My experience covers several areas, which allows me to bring a comprehensive approach to my projects.</h3>
+<h3 align="center">Welcome to my GitHub profile! I'm an aspiring junior developer from Bolivia, with a passion for coding and a keen interest in networking technologies. I'm dedicated to learning and contributing to exciting projects in the world of technology.</h3>
 
 ### Learning Goals
 
