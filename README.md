@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Marco Antonio Espinoza Rojas</h1>
 <h3 align="center">Welcome to my GitHub profile! I'm an aspiring junior developer from Bolivia, with a passion for coding and a keen interest in networking technologies. I'm dedicated to learning and contributing to exciting projects in the world of technology.</h3>
 
+### About Me
+
+- 🎓 Graduated with a degree in Systems Engineering from University Private Franz Tamayo (UNIFRANZ) .
+- 💻 Currently honing my coding skills and exploring new technologies.
+- 🌐 Enthusiastic about networking concepts and eager to dive deeper.
+
 ### Learning Goals
 
 I'm excited to:
