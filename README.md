@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Marco Antonio Espinoza Rojas</h1>
 <h3 align="center">Welcome to my GitHub profile! I am a passionate developer based in Bolivia, with a focus on creating innovative and efficient technology solutions. My experience covers several areas, which allows me to bring a comprehensive approach to my projects.</h3>
 
-### Professional Experience
+### Learning Goals
 
-- **Software Development:** With years of experience in software development, I've worked on a variety of exciting projects. From web applications to mobile solutions, I enjoy tackling challenges and crafting clean and scalable code.
+I'm excited to:
 
-- **Networking and Connectivity:** My deep knowledge of networks enables me to design and maintain robust network infrastructures. I've configured secure and efficient networks that facilitate seamless and reliable communication.
-
-- **Specialized Technical Support:** Additionally, I've provided specialized technical support services to businesses, ensuring smooth operation of their technological infrastructure. My customer-centric approach and troubleshooting skills allow me to find quick and effective solutions.
+- 🚀 Enhance my coding skills and tackle more complex challenges.
+- 🌱 Deepen my understanding of networking protocols and configurations.
+- 🤝 Collaborate with experienced developers and expand my knowledge.
 
 - 📫 How to reach me **marco-_-antonio@live.com**
 
