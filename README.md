@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marco Antonio Espinoza Rojas</h1>
 <h3 align="center">Welcome to my GitHub profile! I am a passionate developer based in Bolivia, with a focus on creating innovative and efficient technology solutions. My experience covers several areas, which allows me to bring a comprehensive approach to my projects.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elmloko&label=Profile%20views&color=0e75b6&style=flat" alt="elmloko" /> </p>
-
 - 🌱 I’m currently learning **frontend technologies like Vue and React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/elmloko/](https://github.com/elmloko/)
